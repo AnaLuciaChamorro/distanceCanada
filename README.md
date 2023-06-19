@@ -1,4 +1,4 @@
 # distanceCanada
 
 
-ver [aqui](https://github.com/AnaLuciaChamorro/distanceCanada/raw/main/index.html)
+ver [aqui](https://analuciachamorro.github.io/distanceCanada/)
